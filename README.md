@@ -7,7 +7,7 @@ The datasets are fed into the machine first it contains the description of the d
 </i>
 <br>
 <br>
-<b>VIDEO OF PROTOTYPE</b>
+<b>VIDEO OF THE PROTOTYPE</b>
 <br>
 <br>
 <a>https://drive.google.com/file/d/15uz0X1JeJa1exKiIotEA6yWGVg-afKu-/view?usp=sharing</a>
