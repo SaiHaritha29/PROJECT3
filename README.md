@@ -6,6 +6,7 @@
 The datasets are fed into the machine first it contains the description of the data and we should analyse various data based on the library packages in python (i.e) Seaborn,countplot,heatmap and so on and in which each data of the particular input undergoes data preprocessing which helps to clean the data after this process where the visualization of each inputs is represented using pyplot. Finally by using Random Forest the accuracy score and the classification will be displayed based on the input data the user has given in the sidebar
 </i>
 <br>
+<img src="S.jpg" alt="Flowers in Chania">
 <br>
 <b>VIDEO OF THE PROTOTYPE</b>
 <br>
